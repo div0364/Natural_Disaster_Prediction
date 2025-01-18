@@ -1,0 +1,7 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+imbalanced-learn 
+streamlit 
+joblib
